@@ -1,0 +1,12 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=int(input())
+mean=(a+b+c+d+e)/5
+print("THAI =",a)
+print("MATH =",b)
+print("ENGLISH =",c)
+print("SCIENCE =",d)
+print("SPORT =",e)
+print("GPA =",mean)

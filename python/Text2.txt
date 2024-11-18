@@ -1,0 +1,6 @@
+sing 2 3 3
+wendy 4 2 1
+mobi 6 0 0
+hiwa 5 1 0
+many 0 1 1
+kiss 2 2 2
